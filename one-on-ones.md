@@ -1,4 +1,6 @@
-## One-on-One Question ideas
+# One-on-Ones
+
+## Question ideas
 - [82 Ways How to Build Rapport With Anyone You Work With](https://getlighthouse.com/blog/how-to-build-rapport/)
 - [One on One Meeting Questions Great Managers Ask Their Teams](https://getlighthouse.com/blog/one-on-one-meeting-questions-great-managers-ask/)
 - [31 Questions to Ask Remote Employees to Better Support Them](https://getlighthouse.com/blog/questions-remote-employees/)
