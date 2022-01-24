@@ -12,6 +12,7 @@
 - [20 questions to ask instead of “How are you doing right now?”](https://qz.com/work/1836105/20-great-questions-to-ask-instead-of-how-are-you-doing-right-now/)
 - [Team-Building, Simplified](https://medium.com/illumination/team-building-simplified-ae1f12494bb9)
 - [Stay Interviews](https://medium.com/lotharschulz/stay-interviews-29a2918d2b21)
+- [I need you to stay](https://www.protocol.com/newsletters/protocol-workplace/inside-the-stay-interview)
 
 ## The Coaching Habit
 1. What's on your mind?
@@ -55,7 +56,7 @@ Support: These questions zero in on how you can be of greatest service to your r
 - How has this experience changed you?
 
 
-## Random questions
+## Sample questions
 - What do you want to talk about today?
 - Anything I can do to help you with your work?
 - What is the specific task or goal that feels unmanageable or unreachable?
@@ -69,6 +70,8 @@ Support: These questions zero in on how you can be of greatest service to your r
 - What aspect of your job would you like more help or coaching?
 - Do you feel challenged at work? Are you learning new things?
 - Do we have enough social activities?
+- Do you feel a sense of purpose in your job?
+- What do you need from me to do your best work?
 
 ## First 1:1 questions
 - Did do you enjoy about working here?
