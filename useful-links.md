@@ -10,6 +10,15 @@
 - [Managing Staff-plus engineers](https://lethain.com/managing-staff-plus-engineers/)
 - [StaffEng](https://staffeng.com/)
 
+## Retrospectives
+- [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators) - Public Trello board
+
+## First time managers
+- [7 Tips For First-Time Managers](https://getlighthouse.com/blog/first-time-managers/)
+
+## Firing
+- [Script for firing people](https://medium.com/better-humans/script-for-firing-people-bf470f928040)
+
 ## CTO
 - [Awesome CTO](https://github.com/kuchin/awesome-cto)
 - [Becoming a CTO](https://blog.kevingoldsmith.com/2021/11/01/becoming-a-cto/)
@@ -17,9 +26,3 @@
 ## Personalities
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 - [Personality Types](https://www.16personalities.com/personality-types)
-
-## First time managers
-- [7 Tips For First-Time Managers](https://getlighthouse.com/blog/first-time-managers/)
-
-## Firing
-- [Script for firing people](https://medium.com/better-humans/script-for-firing-people-bf470f928040)
