@@ -10,9 +10,8 @@
 - [My Approach to 1-on-1s](https://marcorogers.com/blog/my-approach-to-1-on-1s)
 - [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
 - [20 questions to ask instead of “How are you doing right now?”](https://qz.com/work/1836105/20-great-questions-to-ask-instead-of-how-are-you-doing-right-now/)
+- [74 Questions To Ask In One On Ones With A Manager](https://getlighthouse.com/blog/questions-ask-one-on-ones-manager)
 - [Team-Building, Simplified](https://medium.com/illumination/team-building-simplified-ae1f12494bb9)
-- [Stay Interviews](https://medium.com/lotharschulz/stay-interviews-29a2918d2b21)
-- [I need you to stay](https://www.protocol.com/newsletters/protocol-workplace/inside-the-stay-interview)
 
 ## The Coaching Habit
 1. What's on your mind?
@@ -77,8 +76,12 @@ Support: These questions zero in on how you can be of greatest service to your r
 - Did do you enjoy about working here?
 - Where do you live?
 - Who do you live with?
-- Do you have family/friends nearby?
+- Find out names of any family and pets
 - What are you hobbies?
 - What's your favourite treat/snack?
 - When do you do your best work - morning or afternoon?
 - 1:1 frequency & day/time that suits them
+
+## Stay interviews
+- [Stay Interviews](https://medium.com/lotharschulz/stay-interviews-29a2918d2b21)
+- [I need you to stay](https://www.protocol.com/newsletters/protocol-workplace/inside-the-stay-interview)
