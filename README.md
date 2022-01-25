@@ -8,3 +8,5 @@ A place for useful links and references on various leadership topics.
 - [Levelling](levelling.md) - Links to levelling frameworks and other related sites
 - [Tech Culture](tech-culture.md) - Useful resources and ideas for building tech cultures
 - [Useful links](useful-links.md) - Various links to useful resources
+
+My blog is [stevesitton.com](https://stevesitton.com)
