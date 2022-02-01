@@ -72,6 +72,9 @@ Support: These questions zero in on how you can be of greatest service to your r
 - Do you feel a sense of purpose in your job?
 - What do you need from me to do your best work?
 
+## Career growth
+- [Advice for engineers to prepare to lead](https://twitter.com/gergelyorosz/status/1487791794502967302)
+
 ## First 1:1 questions
 - Did do you enjoy about working here?
 - Where do you live?
