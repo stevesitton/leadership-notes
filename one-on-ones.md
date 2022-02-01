@@ -12,6 +12,7 @@
 - [20 questions to ask instead of “How are you doing right now?”](https://qz.com/work/1836105/20-great-questions-to-ask-instead-of-how-are-you-doing-right-now/)
 - [74 Questions To Ask In One On Ones With A Manager](https://getlighthouse.com/blog/questions-ask-one-on-ones-manager)
 - [Team-Building, Simplified](https://medium.com/illumination/team-building-simplified-ae1f12494bb9)
+- [There’s no speedy way to gain your staff engineers’ trust](https://leaddev.com/culture-engagement-motivation/how-slowly-build-trust-your-staff-engineers)
 
 ## The Coaching Habit
 1. What's on your mind?
