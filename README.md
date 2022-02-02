@@ -7,6 +7,7 @@ A place for useful links and references on various leadership topics.
 - [Year-end reviews](year-end-reviews.md) - Areas to consider and sample template for year-end reviews
 - [Levelling](levelling.md) - Links to levelling frameworks and other related sites
 - [Tech Culture](tech-culture.md) - Useful resources and ideas for building tech cultures
+- [Daily Tool](daily-tools.md) - Tools or apps I use for productivity and keeping up to date
 - [Useful links](useful-links.md) - Various links to useful resources
 
 My blog is [stevesitton.com](https://stevesitton.com)
