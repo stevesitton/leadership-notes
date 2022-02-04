@@ -1,4 +1,4 @@
-# Leadership Archive
+# Leadership Notes
 
 A place for useful links and references on various leadership topics.
 
