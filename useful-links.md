@@ -26,4 +26,5 @@
 
 ## Personalities
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
+- [Cognitive bias cheat sheet](https://betterhumans.pub/cognitive-bias-cheat-sheet-55a472476b18#.xfg7ol1qu)
 - [Personality Types](https://www.16personalities.com/personality-types)
