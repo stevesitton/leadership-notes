@@ -16,6 +16,7 @@
 
 ## First time managers
 - [7 Tips For First-Time Managers](https://getlighthouse.com/blog/first-time-managers/)
+- [How to Lead People and Be a Manager](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#)
 
 ## Firing
 - [Script for firing people](https://medium.com/better-humans/script-for-firing-people-bf470f928040)
