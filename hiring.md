@@ -1,6 +1,7 @@
 # Hiring
 
 ## Useful links
+- [Index of writing on hiring](https://lethain.com/hiring-writing-index/) - Will Larson's collection of hiring advice
 - [Behavioral Job Interviews: What They Are, How They Work, and How to Ask Behavioral Interview Questions That Identify the Perfect Candidate](https://www.inc.com/jeff-haden/behavioral-job-interviews-what-they-are-how-they-work-how-to-ask-behavioral-interview-questions-that-identify-perfect-candidate.html)
 - [14 Revealing Interview Questions](https://www.inc.com/jeff-haden/14-revealing-interview-questions.html)
 - [100 Behavioral Interview Questions to Ask Candidates](https://www.inc.com/jeff-haden/14-revealing-interview-questions.html)
