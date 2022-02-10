@@ -69,9 +69,10 @@ Support: These questions zero in on how you can be of greatest service to your r
 - Are there any meetings you feel you shouldn’t attend, or wish you did that you’re left out of?
 - What aspect of your job would you like more help or coaching?
 - Do you feel challenged at work? Are you learning new things?
-- Do we have enough social activities?
+- Are there activities we could do more of as a team/company?
 - Do you feel a sense of purpose in your job?
 - What do you need from me to do your best work?
+- Do you feel your feedback in being heard?
 
 ## Career growth
 - [Advice for engineers to prepare to lead](https://twitter.com/gergelyorosz/status/1487791794502967302)
@@ -83,6 +84,7 @@ Support: These questions zero in on how you can be of greatest service to your r
 - Find out names of any family and pets
 - What are you hobbies?
 - What's your favourite treat/snack?
+- How do you prefer to recieve feedback? 
 - When do you do your best work - morning or afternoon?
 - 1:1 frequency & day/time that suits them
 
