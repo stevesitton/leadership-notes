@@ -14,8 +14,9 @@
 ## Retrospectives
 - [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators) - Public Trello board
 
-## First time managers
+## First time managers / tech leads
 - [7 Tips For First-Time Managers](https://getlighthouse.com/blog/first-time-managers/)
+- [Five valuable lessons for a new tech lead](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead)
 - [How to Lead People and Be a Manager](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#)
 
 ## Firing
