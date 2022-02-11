@@ -9,3 +9,8 @@ These are the tools or apps I frequently use for productivity and keeping up to 
 - [Feedly](https://feedly.com) - RSS feed, my way to stay up to date, works well across devices
 - [Bitwarden](https://bitwarden.com) - excellent password manager, free tier works across all my devices
 - [Spotify](https://www.spotify.com) - music and podcasts
+
+## Miscellaneous tools
+
+- [removebg](https://www.remove.bg/) - remove the background from an image
+- [uncreen](https://www.unscreen.com/) - remove the background from a video
