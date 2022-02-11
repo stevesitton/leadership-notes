@@ -1,4 +1,4 @@
-# Culture
+# Tech Culture
 
 Building a tech culture is unique to a company, looking at the culture of other companies is good for reference but shouldn't be copied.
 
