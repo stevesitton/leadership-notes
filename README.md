@@ -6,7 +6,8 @@ A place for useful links and references on various leadership topics.
 - [Hiring](hiring.md) - Links to articles on hiring, plus sample interview question 
 - [Year-end reviews](year-end-reviews.md) - Areas to consider and sample template for year-end reviews
 - [Levelling](levelling.md) - Links to levelling frameworks and other related sites
-- [Tech Culture](tech-culture.md) - Useful resources and ideas for building tech cultures
+- [Tech Culture](tech-culture.md) - Resources and ideas for building tech cultures
+- [Public Speaking](public-speaking.md) - Resources for public speaking and conference proposals
 - [Daily Tools](daily-tools.md) - Tools or apps I use for productivity and keeping up to date
 - [Useful links](useful-links.md) - Various links to useful resources
 
