@@ -13,6 +13,7 @@
 - [74 Questions To Ask In One On Ones With A Manager](https://getlighthouse.com/blog/questions-ask-one-on-ones-manager)
 - [Team-Building, Simplified](https://medium.com/illumination/team-building-simplified-ae1f12494bb9)
 - [There’s no speedy way to gain your staff engineers’ trust](https://leaddev.com/culture-engagement-motivation/how-slowly-build-trust-your-staff-engineers)
+- [My Best Management Tip](https://1chrishatfield.medium.com/my-best-management-tip-dfe7fd7a13a8)
 
 ## Sample questions
 - What do you want to talk about today?
