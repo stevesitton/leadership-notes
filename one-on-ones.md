@@ -14,7 +14,34 @@
 - [Team-Building, Simplified](https://medium.com/illumination/team-building-simplified-ae1f12494bb9)
 - [There’s no speedy way to gain your staff engineers’ trust](https://leaddev.com/culture-engagement-motivation/how-slowly-build-trust-your-staff-engineers)
 
-## The Coaching Habit
+## Sample questions
+- What do you want to talk about today?
+- Anything I can do to help you with your work?
+- What is the specific task or goal that feels unmanageable or unreachable?
+- How do you prioritize your time?
+- What do you find hard in your job?
+- What’s a recent situation you wish you handled differently? What would you change?
+- What’s an area of your work you want to improve?
+- What part of your job do you wish you didn’t have to do?
+- Who do you admire in the company?
+- Is everyone pulling their weight on the team?
+- Are there any meetings you feel you shouldn’t attend, or wish you did that you’re left out of?
+- What aspect of your job would you like more help or coaching?
+- Do you feel challenged at work? Are you learning new things?
+- What skills would you like to grow/develop?
+- Are there activities we could do more of as a team/company?
+- Do you feel a sense of purpose in your job? (Are you happy working here?)
+- What do you need from me to do your best work?
+- Do you feel your feedback in being heard?
+
+## Lockdown questions
+- What habit have you started, or broken, during the lockdown?
+- What’s something that you miss that surprises you?
+- What times of the day or the week are hardest?
+- What’s giving you hope right now?
+- How has this experience changed you?
+
+## From - The Coaching Habit
 1. What's on your mind?
 2. What else?
 3. What's the real challenge for you here?
@@ -22,6 +49,18 @@
 5. How can I help?
 6. What are you saying no to? (if you say yes to this)
 7. What was most useful to you? What did you learn?
+
+## From - The Management Playbook
+1. What keeps you here?
+2. What do you think your strengths are? (skills, knowledge, talent)
+3. What about your weaknesses?
+4. What are your goals for you current role? (give a timeline)
+5. How often do you like to meet with me to discuss your progress? Are you the kind of person who will tell how you are feeling or do I have to ask?
+6. Do you have any personal goals or commitments you would like to share?
+7. What is the best praise you have even received? What made it good?
+8. Have you had any productive partnerships or mentors? Why do you think these relationships worked so well for you?
+9. What are you future growth goals, your career goals? Are there any particular skills you want to learn? Are there some specific challenges you want to experience?
+10. Is there anything else you want to talk about that might help us work well together?
 
 ## Useful structure
 Identify: These questions focus on what really matters for your report and what topics are worth spending more time on
@@ -46,33 +85,6 @@ Support: These questions zero in on how you can be of greatest service to your r
 - Purpose: What’s so important to you in achieving these goals? Why does it matter to you? (purpose, meaning, drive)
 - Gap: Where are you vs goal, what’s missing?
 - Strategy: Let’s break-down in mini-goals, agree on a timeline and data points we’ll use to measure progress.
-
-
-## Lockdown questions
-- What habit have you started, or broken, during the lockdown?
-- What’s something that you miss that surprises you?
-- What times of the day or the week are hardest?
-- What’s giving you hope right now?
-- How has this experience changed you?
-
-
-## Sample questions
-- What do you want to talk about today?
-- Anything I can do to help you with your work?
-- What is the specific task or goal that feels unmanageable or unreachable?
-- How do you prioritize your time?
-- What do you find hard in your job?
-- What’s a recent situation you wish you handled differently? What would you change?
-- What’s an area of your work you want to improve?
-- What part of your job do you wish you didn’t have to do?
-- Is everyone pulling their weight on the team?
-- Are there any meetings you feel you shouldn’t attend, or wish you did that you’re left out of?
-- What aspect of your job would you like more help or coaching?
-- Do you feel challenged at work? Are you learning new things?
-- Are there activities we could do more of as a team/company?
-- Do you feel a sense of purpose in your job?
-- What do you need from me to do your best work?
-- Do you feel your feedback in being heard?
 
 ## Career growth
 - [Advice for engineers to prepare to lead](https://twitter.com/gergelyorosz/status/1487791794502967302)
