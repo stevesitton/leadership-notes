@@ -104,3 +104,21 @@ Support: These questions zero in on how you can be of greatest service to your r
 ## Stay interviews
 - [Stay Interviews](https://medium.com/lotharschulz/stay-interviews-29a2918d2b21)
 - [I need you to stay](https://www.protocol.com/newsletters/protocol-workplace/inside-the-stay-interview)
+
+## Feedback
+
+- [The Situation-Behavior-Impact Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm)
+
+__Questions__
+
+- What is X doing especially well that he/she should do more of?
+- What should X change or stop doing?
+- Does X collaborate well with the team? Do you see any need for improvements in this area?
+- Given X's position, is he/she ready for a promotion? Please add reasons for your view.
+
+__Request over questions__
+
+Requests are more powerful when they’re made as open questions. E.g.
+
+- Please try and arrive on time. (a request)
+- What will you do to make sure you arrive on time? (an open question)
