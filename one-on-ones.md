@@ -9,6 +9,7 @@
 - [How to coach employees? Ask these 1-on-1 meeting questions](https://knowyourteam.com/blog/2020/02/19/how-to-coach-employees-ask-these-1-on-1-meeting-questions/)
 - [What to talk about in 1:1s](https://wizardzines.com/comics/1-1s/)
 - [My Approach to 1-on-1s](https://marcorogers.com/blog/my-approach-to-1-on-1s)
+- [The 9 questions that uncover the most surprising insights from employees](https://m.signalvnoise.com/the-9-questions-that-uncover-the-most-surprising-insights-from-employees/)
 - [The 8 best questions to ask during a one-on-one meeting](https://knowyourteam.com/blog/2018/01/11/the-8-best-questions-to-ask-during-a-one-on-one-meeting/)
 - [20 questions to ask instead of “How are you doing right now?”](https://qz.com/work/1836105/20-great-questions-to-ask-instead-of-how-are-you-doing-right-now/)
 - [74 Questions To Ask In One On Ones With A Manager](https://getlighthouse.com/blog/questions-ask-one-on-ones-manager)
@@ -109,6 +110,7 @@ Support: These questions zero in on how you can be of greatest service to your r
 ## Feedback
 
 - [The Situation-Behavior-Impact Feedback Tool](https://www.mindtools.com/pages/article/situation-behavior-impact-feedback.htm)
+- [11 ways to get feedback from your most introverted employee](https://m.signalvnoise.com/11-ways-to-get-feedback-from-your-most-introverted-employee/)
 
 __Questions__
 
