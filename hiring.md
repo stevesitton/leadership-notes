@@ -8,6 +8,7 @@
 - [The Responses I Got From a Software Developer Candidate That Made Me Hire Him](https://medium.com/illumination/the-responses-i-got-from-a-software-developer-candidate-that-made-me-hire-him-98ff8bf01298)
 - [Increase your hiring success with job success profiles](https://leaddev.com/hiring-onboarding-retention/increase-your-hiring-success-job-success-profiles)
 - [Hire for commitment, not fit](https://medium.com/pluralsight/hiring-for-commitment-not-fit-e79c0113811c)
+- [Library of Skill-Based Interview Questions](https://www.thehrspecialist.com/15139/library-of-skill-based-interview-questions)
 
 
 ## Example Interview Questions
@@ -32,6 +33,9 @@
 - (Social) What do you do for fun?
 - (Behavioural) Tell me about a time when a project overran
 - (Behavioural) Tell me about a time when you learned something difficult in the past
+
+## Games
+- [Keep Talking and Nobody Explodes](https://keeptalkinggame.com/) - fun game to for team work and communication skills
 
 ## Reference check questions
 - Where do you see this person in 3 years?
