@@ -10,7 +10,8 @@ These are the tools or apps I frequently use for productivity and keeping up to 
 - [Bitwarden](https://bitwarden.com) - excellent password manager, free tier works across all my devices
 - [Spotify](https://www.spotify.com) - music and podcasts
 
-## Miscellaneous tools
+## Other useful tools
 
 - [removebg](https://www.remove.bg/) - remove the background from an image
 - [uncreen](https://www.unscreen.com/) - remove the background from a video
+- [Gifski](https://gif.ski/) - convert videos to GIFs
