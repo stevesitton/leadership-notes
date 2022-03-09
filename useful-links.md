@@ -1,5 +1,9 @@
 # Useful Links
 
+## Handbooks
+- [Octopus Handbook](https://handbook.octopus.com/)
+- [Made Tech Handbook](https://github.com/madetech/handbook)
+
 ## Playbooks
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook)
 
