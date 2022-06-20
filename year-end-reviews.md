@@ -1,7 +1,8 @@
 # Year-end Reviews
 
-## Useful phrases
+## Useful links
 - [28 performance review phrases to consider using](https://knowyourteam.com/blog/2019/10/24/28-performance-review-phrases-to-consider-using/)
+- [Having Career Conversations](http://www.softwareonthebrain.com/2021/12/having-career-growth-conversations.html)
 
 ## Areas to consider
 
