@@ -19,6 +19,7 @@
 - [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators) - Public Trello board
 
 ## First time managers / tech leads
+- [11 Questions to help you decide if you are ready to lead a team](https://twitter.com/mrjacobespi/status/1507734131194884108?s=12&t=Kz7OUFQcQ2m2sZ_FerAtOA) - Twitter 🧵
 - [7 Tips For First-Time Managers](https://getlighthouse.com/blog/first-time-managers/)
 - [6 Key Questions to Ask When You're Managing a New Team](https://getlighthouse.com/blog/managing-a-new-team)
 - [Five valuable lessons for a new tech lead](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead)
