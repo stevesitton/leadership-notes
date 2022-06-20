@@ -9,6 +9,7 @@
 - [Increase your hiring success with job success profiles](https://leaddev.com/hiring-onboarding-retention/increase-your-hiring-success-job-success-profiles)
 - [Hire for commitment, not fit](https://medium.com/pluralsight/hiring-for-commitment-not-fit-e79c0113811c)
 - [Library of Skill-Based Interview Questions](https://www.thehrspecialist.com/15139/library-of-skill-based-interview-questions)
+- [Cracking the Product Interview for Engineers](https://medium.com/geekculture/cracking-the-product-interview-for-engineers-cd3b1f1bfa96)
 
 
 ## Example Interview Questions
