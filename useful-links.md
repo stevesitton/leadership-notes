@@ -20,8 +20,12 @@
 
 ## First time managers / tech leads
 - [7 Tips For First-Time Managers](https://getlighthouse.com/blog/first-time-managers/)
+- [6 Key Questions to Ask When You're Managing a New Team](https://getlighthouse.com/blog/managing-a-new-team)
 - [Five valuable lessons for a new tech lead](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead)
 - [How to Lead People and Be a Manager](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#)
+
+## Training
+- [Your Startup’s Management Training Probably Sucks — Here’s How to Make it Better](https://review.firstround.com/your-startups-management-training-probably-sucks-heres-how-to-make-it-better)
 
 ## Firing
 - [Script for firing people](https://medium.com/better-humans/script-for-firing-people-bf470f928040)
