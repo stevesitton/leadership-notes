@@ -44,3 +44,4 @@
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [7 Mental Models For Great Engineering Leadership](https://athenian.com/blog/7-mental-models-for-great-engineering-leadership)
 - [Motivating Developers to Care About Documentation](https://getdx.com/best-practices/documentation-culture-engineering)
+- [“Sharing Interesting Stuff”: A simple yet powerful management tool](https://medium.com/shipup-blog/sharing-interesting-stuff-a-simple-yet-powerful-management-tool-771d3c2b39b7)
