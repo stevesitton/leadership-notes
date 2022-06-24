@@ -15,3 +15,4 @@ These are the tools or apps I frequently use for productivity and keeping up to 
 - [removebg](https://www.remove.bg/) - remove the background from an image
 - [uncreen](https://www.unscreen.com/) - remove the background from a video
 - [Gifski](https://gif.ski/) - convert videos to GIFs
+- [flaticon](https://www.flaticon.com/) - Vector icons and stickers
