@@ -25,6 +25,9 @@
 - [Five valuable lessons for a new tech lead](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead)
 - [How to Lead People and Be a Manager](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#)
 
+## Leading managers
+- [Making a manager of managers](https://leaddev.com/upcoming-articles/making-manager-managers)
+
 ## Training
 - [Your Startup’s Management Training Probably Sucks — Here’s How to Make it Better](https://review.firstround.com/your-startups-management-training-probably-sucks-heres-how-to-make-it-better)
 
