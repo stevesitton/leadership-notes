@@ -10,6 +10,7 @@
 - [Hire for commitment, not fit](https://medium.com/pluralsight/hiring-for-commitment-not-fit-e79c0113811c)
 - [Library of Skill-Based Interview Questions](https://www.thehrspecialist.com/15139/library-of-skill-based-interview-questions)
 - [Cracking the Product Interview for Engineers](https://medium.com/geekculture/cracking-the-product-interview-for-engineers-cd3b1f1bfa96)
+- [How to hire for Director+ roles?](https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51)
 
 
 ## Example Interview Questions
@@ -45,4 +46,5 @@
 - Tell me about a time you coached them on something.
 - How would you rate the candidate on a scale of 1-10? You can’t say 7!
 - What's a skill you've seen them grow?
+- Of the people you have managed or worked with, in what percentile would you place this candidate?
 - What advice do you have for me as a manager to help them be successful in this role?
