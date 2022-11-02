@@ -31,6 +31,9 @@
 ## Training
 - [Your Startup’s Management Training Probably Sucks — Here’s How to Make it Better](https://review.firstround.com/your-startups-management-training-probably-sucks-heres-how-to-make-it-better)
 
+## Planning
+- [How to plan?](https://kellanem.com/notes/how-to-plan)
+
 ## Firing
 - [Script for firing people](https://medium.com/better-humans/script-for-firing-people-bf470f928040)
 
