@@ -10,6 +10,7 @@
 - [Hire for commitment, not fit](https://medium.com/pluralsight/hiring-for-commitment-not-fit-e79c0113811c)
 - [Library of Skill-Based Interview Questions](https://www.thehrspecialist.com/15139/library-of-skill-based-interview-questions)
 - [Cracking the Product Interview for Engineers](https://medium.com/geekculture/cracking-the-product-interview-for-engineers-cd3b1f1bfa96)
+- [How I interview engineers to assess ability to deliver impact](https://www.metaview.ai/resources/blog/how-i-interview-engineers-to-assess-ability-to-deliver-impact)
 - [How to hire for Director+ roles?](https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51)
 
 
