@@ -24,6 +24,7 @@
 - [6 Key Questions to Ask When You're Managing a New Team](https://getlighthouse.com/blog/managing-a-new-team)
 - [Five valuable lessons for a new tech lead](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead)
 - [How to Lead People and Be a Manager](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#)
+- [Evaluating Managers: 5 heuristics to measure managerial impact](https://abdulapopoola.com/2023/01/09/evaluating-managers-5-heuristics-to-measure-managerial-impact)
 
 ## Leading managers
 - [Making a manager of managers](https://leaddev.com/upcoming-articles/making-manager-managers)
@@ -40,6 +41,7 @@
 ## CTO
 - [Awesome CTO](https://github.com/kuchin/awesome-cto)
 - [Becoming a CTO](https://blog.kevingoldsmith.com/2021/11/01/becoming-a-cto/)
+- [Measuring Engineering Organizations](https://lethain.com/measuring-engineering-organizations)
 
 ## Personalities
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
