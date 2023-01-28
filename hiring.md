@@ -12,6 +12,7 @@
 - [Cracking the Product Interview for Engineers](https://medium.com/geekculture/cracking-the-product-interview-for-engineers-cd3b1f1bfa96)
 - [How I interview engineers to assess ability to deliver impact](https://www.metaview.ai/resources/blog/how-i-interview-engineers-to-assess-ability-to-deliver-impact)
 - [How to hire for Director+ roles?](https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51)
+- [What to ask when interviewing for a VPE position?](https://karimfanous.substack.com/p/what-to-ask-during-a-vp-of-engineering)
 
 
 ## Example Interview Questions
