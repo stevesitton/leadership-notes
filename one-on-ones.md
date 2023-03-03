@@ -17,6 +17,7 @@
 - [Team-Building, Simplified](https://medium.com/illumination/team-building-simplified-ae1f12494bb9)
 - [There’s no speedy way to gain your staff engineers’ trust](https://leaddev.com/culture-engagement-motivation/how-slowly-build-trust-your-staff-engineers)
 - [My Best Management Tip](https://1chrishatfield.medium.com/my-best-management-tip-dfe7fd7a13a8)
+- [The difference between good and great engineers](https://www.intercom.com/blog/traits-of-exceptional-engineers)
 
 ## Sample questions
 - What do you want to talk about today?
