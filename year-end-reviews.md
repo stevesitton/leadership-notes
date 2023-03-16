@@ -3,6 +3,7 @@
 ## Useful links
 - [28 performance review phrases to consider using](https://knowyourteam.com/blog/2019/10/24/28-performance-review-phrases-to-consider-using/)
 - [Having Career Conversations](http://www.softwareonthebrain.com/2021/12/having-career-growth-conversations.html)
+- [The Alternative to Performance Reviews for Software Engineers](https://betterprogramming.pub/the-alternative-to-performance-reviews-for-software-engineers-7b6d1c9537dd)
 
 ## Areas to consider
 
