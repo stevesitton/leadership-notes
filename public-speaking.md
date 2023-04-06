@@ -3,6 +3,7 @@
 ## Articles focused on public speaking
 - [beautiful.ai](https://www.beautiful.ai/player/-LiSV45O9K1sE8uv5oMj/On-Presentations) - presentation about presenting
 - [give actionable takeaways](https://bridgetkromhout.com/blog/give-actionable-takeaways/)
+- [Some thoughts on my presentation style](https://surfingcomplexity.blog/2023/03/25/some-thoughts-on-my-presentation-style/)
 - [Preparing Yourself](https://medium.com/@randyshoup/speaking-about-speaking-part-1-preparing-yourself-f3cee2cca52), 
 [Organizing Content](https://medium.com/@randyshoup/speaking-about-speaking-part-2-organizing-content-c3b546c3b250),
 [Preparing the Stage](https://medium.com/@randyshoup/speaking-about-speaking-part-3-preparing-the-stage-c62b6808249d),
