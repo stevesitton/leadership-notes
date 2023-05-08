@@ -10,6 +10,7 @@
 - [Engineering career development at Khan Academy](https://blog.khanacademy.org/engineering-career-development-at-khan-academy)
 - [Basecamp - Titles for programmers](https://github.com/basecamp/handbook/blob/master/titles-for-programmers.md)
 - [Dropbox](https://dropbox.github.io/dbx-career-framework/overview.html)
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 - [Monday.com - Engineering - Personal Development Plan](https://growth.monday.com/homepage/rd/engineering/)
 - [What We Expect From Software Developers on Each Level](https://dafir.medium.com/what-we-expect-from-software-developers-on-each-level-f7b44abb71da)
 
