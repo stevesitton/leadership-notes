@@ -18,17 +18,6 @@
 ## Retrospectives
 - [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators) - Public Trello board
 
-## First time managers / tech leads
-- [11 Questions to help you decide if you are ready to lead a team](https://twitter.com/mrjacobespi/status/1507734131194884108?s=12&t=Kz7OUFQcQ2m2sZ_FerAtOA) - Twitter 🧵
-- [7 Tips For First-Time Managers](https://getlighthouse.com/blog/first-time-managers/)
-- [6 Key Questions to Ask When You're Managing a New Team](https://getlighthouse.com/blog/managing-a-new-team)
-- [Five valuable lessons for a new tech lead](https://leaddev.com/professional-development/five-valuable-lessons-new-tech-lead)
-- [How to Lead People and Be a Manager](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#)
-- [Evaluating Managers: 5 heuristics to measure managerial impact](https://abdulapopoola.com/2023/01/09/evaluating-managers-5-heuristics-to-measure-managerial-impact)
-
-## Leading managers
-- [Making a manager of managers](https://leaddev.com/upcoming-articles/making-manager-managers)
-
 ## Training
 - [Your Startup’s Management Training Probably Sucks — Here’s How to Make it Better](https://review.firstround.com/your-startups-management-training-probably-sucks-heres-how-to-make-it-better)
 
@@ -37,12 +26,6 @@
 
 ## Firing
 - [Script for firing people](https://medium.com/better-humans/script-for-firing-people-bf470f928040)
-
-## CTO
-- [Awesome CTO](https://github.com/kuchin/awesome-cto)
-- [Becoming a CTO](https://blog.kevingoldsmith.com/2021/11/01/becoming-a-cto/)
-- [Measuring Engineering Organizations](https://lethain.com/measuring-engineering-organizations)
-- [CTO Checklist](https://medium.com/@tom-neal/cto-checklist-1a2ef3d6502)
 
 ## Personalities
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
