@@ -2,7 +2,7 @@
 
 A place for useful links and references on various leadership topics.
 
-- [Management](management.md)
+- [Management](management/management.md)
   - [One-on-Ones](one-on-ones.md) - Links to one-on-one questions, plus different approaches to these conversations
   - [Levelling](levelling.md) - Links to levelling/career frameworks and other related sites
   - [Hiring](hiring.md) - Links to articles on hiring, plus sample interview question 
