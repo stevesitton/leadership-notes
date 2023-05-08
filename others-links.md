@@ -1,4 +1,4 @@
-# Misc Links
+# Other Links
 
 ## Handbooks
 - [Octopus Handbook](https://handbook.octopus.com/)
