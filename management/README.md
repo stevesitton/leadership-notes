@@ -12,3 +12,9 @@
 
 ### Leading managers
 - [Making a manager of managers](https://leaddev.com/upcoming-articles/making-manager-managers)
+
+### Productivity and Developer Experience (DevEx)
+- [DORA - Using the four keys to measure your DevOps performance](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
+- [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
+- [DevEx: What Actually Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
+- [TRUCE: A Framework for Software Quality](https://arxiv.org/pdf/2111.04302.pdf)
