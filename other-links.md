@@ -15,9 +15,6 @@
 - [There’s no speedy way to gain your staff engineers’ trust](https://leaddev.com/culture-engagement-motivation/how-slowly-build-trust-your-staff-engineers)
 - [StaffEng](https://staffeng.com/)
 
-## Retrospectives
-- [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators) - Public Trello board
-
 ## Training
 - [Your Startup’s Management Training Probably Sucks — Here’s How to Make it Better](https://review.firstround.com/your-startups-management-training-probably-sucks-heres-how-to-make-it-better)
 
