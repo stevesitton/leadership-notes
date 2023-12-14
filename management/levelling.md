@@ -16,6 +16,7 @@
 
 ## Other Useful references
 
+- [Scaling an Engineering Org: A Journey Through Roles and Responsibilities](https://nothingventured.rocks/scaling-an-engineering-org-a-journey-through-roles-and-responsibilities-b979dabba106) - Useful tables in the 'Implementing Changes' section for eliminating ambiguity.
 - [levels.fyi](https://www.levels.fyi)
 - [progression.fyi](https://progression.fyi/)
 - [career-ladders.net](https://career-ladders.dev)
