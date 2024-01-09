@@ -12,6 +12,7 @@
 - [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 - [Monday.com - Engineering - Personal Development Plan](https://growth.monday.com/homepage/rd/engineering/)
 - [DoorDash - Engineering](https://doordash.engineering/2023/09/19/how-doordash-fosters-meaningful-engineering-career-development), [DoorDash - Engineering Management](https://doordash.engineering/2023/09/19/how-doordash-defines-great-engineering-management)
+- [LinkedIn - Developer Productivity and Happiness Framework](https://linkedin.github.io/dph-framework/)
 - [What We Expect From Software Developers on Each Level](https://dafir.medium.com/what-we-expect-from-software-developers-on-each-level-f7b44abb71da)
 
 ## Other Useful references
