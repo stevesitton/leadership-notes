@@ -44,3 +44,7 @@
 ## DevEx Surveys
 - [A Deep Dive into Developer Experience Surveys](https://lauratacho.com/blog/a-deep-dive-into-developer-experience-surveys) ([Sample questions](https://docs.google.com/spreadsheets/d/1gGKtZ78sKbTzxQTydcZGEB5HiLeXsHmWNqpaTL6ikQU/edit#gid=0))
 - [How to Survey Your Team: Ask the Developers What Headaches They Are Facing](https://betterprogramming.pub/ask-the-developers-what-headaches-really-they-are-facing-b0ff4def4a27) ([Sample questions](https://gist.github.com/durbon/5d896ef82c0c57765b0a11ce2086dd0a))
+
+## Misc
+- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems
+- [“Sharing Interesting Stuff”: A simple yet powerful management tool](https://medium.com/shipup-blog/sharing-interesting-stuff-a-simple-yet-powerful-management-tool-771d3c2b39b7)
