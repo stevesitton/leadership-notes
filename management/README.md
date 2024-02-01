@@ -12,7 +12,6 @@
 ## Leading managers
 - [Making a manager of managers](https://leaddev.com/upcoming-articles/making-manager-managers)
 
-
 ## Staff+ Engineers
 - [What a Senior Staff Software Engineer Actually Does](https://medium.com/box-tech-blog/what-a-senior-staff-software-engineer-actually-does-f3fc140d5f33)
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
@@ -21,8 +20,20 @@
 - [There’s no speedy way to gain your staff engineers’ trust](https://leaddev.com/culture-engagement-motivation/how-slowly-build-trust-your-staff-engineers)
 - [StaffEng](https://staffeng.com/)
 
+## Planning
+- [How to plan?](https://kellanem.com/notes/how-to-plan)
+   
 ## Retrospectives
 - [Retrospective Techniques for Coaches, Scrum Masters, and Other Facilitators](https://trello.com/b/40BwQg57/retrospective-techniques-for-coaches-scrum-masters-and-other-facilitators) - Public Trello board
+
+## Playbooks
+- [Manager's Playbook](https://github.com/ksindi/managers-playbook)
+
+## Training
+- [Your Startup’s Management Training Probably Sucks — Here’s How to Make it Better](https://review.firstround.com/your-startups-management-training-probably-sucks-heres-how-to-make-it-better)
+
+## Firing
+- [Script for firing people](https://medium.com/better-humans/script-for-firing-people-bf470f928040)
 
 ## Productivity and Developer Experience (DevEx)
 - [DORA - Using the four keys to measure your DevOps performance](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
