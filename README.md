@@ -12,6 +12,5 @@ A place for useful links and references on various leadership topics.
   - [Leadership Talks](leadership/leadership-talks.md) - Recommended leaderships talks
   - [Public Speaking](leadership/public-speaking.md) - Resources for public speaking and conference proposals
 - [Daily Tools](daily-tools.md) - Tools or apps I use for productivity and keeping up to date
-- [Other links](other-links.md) - Various links to resources outside the above topics
 
 My blog is [stevesitton.com](https://stevesitton.com)
