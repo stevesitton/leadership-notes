@@ -15,7 +15,7 @@
 - [LinkedIn - Developer Productivity and Happiness Framework](https://linkedin.github.io/dph-framework/)
 - [What We Expect From Software Developers on Each Level](https://dafir.medium.com/what-we-expect-from-software-developers-on-each-level-f7b44abb71da)
 
-## Other Useful references
+## Other Useful References
 
 - [Scaling an Engineering Org: A Journey Through Roles and Responsibilities](https://nothingventured.rocks/scaling-an-engineering-org-a-journey-through-roles-and-responsibilities-b979dabba106) - Useful tables in the 'Implementing Changes' section for eliminating ambiguity.
 - [levels.fyi](https://www.levels.fyi)
