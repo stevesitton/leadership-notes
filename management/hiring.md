@@ -13,6 +13,7 @@
 - [How I interview engineers to assess ability to deliver impact](https://www.metaview.ai/resources/blog/how-i-interview-engineers-to-assess-ability-to-deliver-impact)
 - [How to hire for Director+ roles?](https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51)
 - [What to ask when interviewing for a VPE position?](https://karimfanous.substack.com/p/what-to-ask-during-a-vp-of-engineering)
+- [50 Key Interview Questions for Engineering Leaders](https://jodijefferson.medium.com/master-hiring-50-key-interview-questions-for-engineering-leaders-cto-vp-or-head-of-engineering-a0f533937a60)
 
 
 ## Example Interview Questions
