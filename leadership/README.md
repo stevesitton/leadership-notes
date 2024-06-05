@@ -6,6 +6,9 @@
 - [Measuring Engineering Organizations](https://lethain.com/measuring-engineering-organizations)
 - [CTO Checklist](https://medium.com/@tom-neal/cto-checklist-1a2ef3d6502)
 
+## Strategy
+- [How to Build Engineering Strategy](https://blog.practicalengineering.management/how-to-build-engineering-strategy-42e464018177)
+
 ## Handbooks
 - [Octopus Handbook](https://handbook.octopus.com/)
 - [Made Tech Handbook](https://github.com/madetech/handbook)
