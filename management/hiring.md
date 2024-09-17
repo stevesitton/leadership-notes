@@ -40,6 +40,7 @@ Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxM
 - (Social) What do you do for fun?
 - (Behavioural) Tell me about a time when a project overran
 - (Behavioural) Tell me about a time when you learned something difficult in the past
+- (Behavioural) On which topics do people come to consult with you even if they don't need to? Why do you think it is?
 
 ## Games
 - [Keep Talking and Nobody Explodes](https://keeptalkinggame.com/) - fun game to for team work and communication skills
