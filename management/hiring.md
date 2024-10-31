@@ -55,3 +55,4 @@ Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxM
 - What's a skill you've seen them grow?
 - Of the people you have managed or worked with, in what percentile would you place this candidate?
 - What advice do you have for me as a manager to help them be successful in this role?
+- [Questions I ask when checking references](https://x.com/jasonfried/status/1819072269756649498) 𝕏 thread with more questions 
