@@ -16,6 +16,7 @@
 - [50 Key Interview Questions for Engineering Leaders](https://jodijefferson.medium.com/master-hiring-50-key-interview-questions-for-engineering-leaders-cto-vp-or-head-of-engineering-a0f533937a60)
 - [An Engineering Leader’s 
 Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxMEsdNQMZdUqn1Vahncr2pY/edit) - Useful guidance for your own job search!
+- [Two Questions for Any Interview](https://medium.com/@ggonchar/two-key-questions-for-any-interview-a6a731260d59)
 
 
 ## Example Interview Questions
