@@ -17,7 +17,7 @@
 - [An Engineering Leader’s 
 Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxMEsdNQMZdUqn1Vahncr2pY/edit) - Useful guidance for your own job search!
 - [Two Questions for Any Interview](https://medium.com/@ggonchar/two-key-questions-for-any-interview-a6a731260d59)
-
+- [Questions for potential employers](https://github.com/tBaxter/questions-for-employers) - Helpful list of questions to ask your potential new employer
 
 ## Example Interview Questions
 - (Human Skills) What was a piece of feedback that was hard to take but helped you improve?
@@ -55,4 +55,5 @@ Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxM
 - What's a skill you've seen them grow?
 - Of the people you have managed or worked with, in what percentile would you place this candidate?
 - What advice do you have for me as a manager to help them be successful in this role?
-- [Questions I ask when checking references](https://x.com/jasonfried/status/1819072269756649498) 𝕏 thread with more questions 
+- [Questions I ask when checking references](https://x.com/jasonfried/status/1819072269756649498) 𝕏 post with more questions 
+
