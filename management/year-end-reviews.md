@@ -5,6 +5,7 @@
 - [Having Career Conversations](http://www.softwareonthebrain.com/2021/12/having-career-growth-conversations.html)
 - [The Alternative to Performance Reviews for Software Engineers](https://betterprogramming.pub/the-alternative-to-performance-reviews-for-software-engineers-7b6d1c9537dd)
 - [6 Proven Ways To Help When Your Team Member Can't Answer "What Are Your Career Goals?"](https://getlighthouse.com/blog/what-are-your-career-goals)
+- [Seek Goals That Will Change How You Live](https://candost.blog/seek-goals-that-will-change-how-you-live)
 
 ## Areas to consider
 
