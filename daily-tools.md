@@ -19,3 +19,4 @@ These are the tools or apps I frequently use for productivity and keeping up to 
 - [flaticon](https://www.flaticon.com/) - Vector icons and stickers
 - [PDF24 Tools](https://tools.pdf24.org/en/) - tools to work with PDFs
 - [TinyWow](https://tinywow.com/) - PDF, video, image and other online tools
+- [CleanPNG](https://www.cleanpng.com/) - Free clipart
