@@ -28,6 +28,7 @@
 - [A Deep Dive into Developer Experience Surveys](https://lauratacho.com/blog/a-deep-dive-into-developer-experience-surveys) ([Sample questions](https://docs.google.com/spreadsheets/d/1gGKtZ78sKbTzxQTydcZGEB5HiLeXsHmWNqpaTL6ikQU/edit#gid=0))
 - [How to Survey Your Team: Ask the Developers What Headaches They Are Facing](https://betterprogramming.pub/ask-the-developers-what-headaches-really-they-are-facing-b0ff4def4a27) ([Sample questions](https://gist.github.com/durbon/5d896ef82c0c57765b0a11ce2086dd0a))
 - [Measuring Developer Productivity via Humans](https://martinfowler.com/articles/measuring-developer-productivity-humans.html)
+- [How to Protect Your Scarcest Innovation Resource: Engineering Focus](https://builtin.com/articles/protect-engineering-focus) - ask questions around deep focus time and context switching 
 
 ## Misc
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems
