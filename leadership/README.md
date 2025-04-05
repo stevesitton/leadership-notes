@@ -8,6 +8,7 @@
 
 ## Strategy
 - [How to Build Engineering Strategy](https://blog.practicalengineering.management/how-to-build-engineering-strategy-42e464018177)
+- [“You need to be more strategic” - A primer on strategy for software engineers](https://writing.pupius.co.uk/you-need-to-be-more-strategic-dc473a2aa319)
 
 ## Handbooks
 - [Octopus Handbook](https://handbook.octopus.com/)
