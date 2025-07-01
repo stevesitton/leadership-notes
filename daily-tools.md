@@ -2,10 +2,10 @@
 
 These are the tools or apps I frequently use for productivity and keeping up to date:
 
-- [Rectangle](https://rectangleapp.com) - used daily to move windows to snap areas
-- [Notion](https://www.notion.so/) - used for capturing notes and working documents, especially useful for 1:1s. Working across devices fairly well. A step up from Evernote. I didn't get on with Craft.
+- [Bear](https://bear.app/) - used for note taking and working documents. Best note app I've found!
+- [Claude](https://claude.ai) - AI assistant - becoming invaluable!
 - [Keep](https://www.google.com/keep) - mainly for personal notes. It's lightweight and quick to capture what's on my mind
-- [Pocket](https://getpocket.com) - so good for sending articles, blogs, twitter threads to to read another time
+- [Raindrop](https://raindrop.io/) - so good for sending articles, blogs to read another time
 - [Feedly](https://feedly.com) - RSS feed, my way to stay up to date, works well across devices
 - [Bitwarden](https://bitwarden.com) - excellent password manager, free tier works across all my devices
 - [Spotify](https://www.spotify.com) - music and podcasts
