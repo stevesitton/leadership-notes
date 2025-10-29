@@ -33,3 +33,4 @@
 ## Misc
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [“Sharing Interesting Stuff”: A simple yet powerful management tool](https://medium.com/shipup-blog/sharing-interesting-stuff-a-simple-yet-powerful-management-tool-771d3c2b39b7)
+- [(More) Icebreakers for meetings and workshops that don’t suck](https://emilywebber.co.uk/more-icebreakers-for-meetings-and-workshops-that-dont-suck-no-really/)
