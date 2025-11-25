@@ -1,5 +1,8 @@
 # Public Speaking
 
+## Video
+- [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+
 ## Articles focused on public speaking
 - [beautiful.ai](https://www.beautiful.ai/player/-LiSV45O9K1sE8uv5oMj/On-Presentations) - presentation about presenting
 - [give actionable takeaways](https://bridgetkromhout.com/blog/give-actionable-takeaways/)
