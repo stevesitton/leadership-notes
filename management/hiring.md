@@ -18,6 +18,7 @@
 Job Search Algorithm](https://docs.google.com/document/d/19fr_36WOzKlq_zyGP2RdxMEsdNQMZdUqn1Vahncr2pY/edit) - Useful guidance for your own job search!
 - [Two Questions for Any Interview](https://medium.com/@ggonchar/two-key-questions-for-any-interview-a6a731260d59)
 - [Questions for potential employers](https://github.com/tBaxter/questions-for-employers) - Helpful list of questions to ask your potential new employer
+- [System Design Academy](https://github.com/systemdesign42/system-design-academy)
 
 ## Example Interview Questions
 - (Human Skills) What was a piece of feedback that was hard to take but helped you improve?
